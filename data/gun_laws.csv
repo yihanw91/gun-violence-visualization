@@ -1,0 +1,301 @@
+﻿state,year,num_laws
+Alabama,2013,10
+Alabama,2014,10
+Alabama,2015,10
+Alabama,2016,10
+Alabama,2017,10
+Alabama,2018,10
+Alaska,2013,3
+Alaska,2014,3
+Alaska,2015,3
+Alaska,2016,3
+Alaska,2017,3
+Alaska,2018,3
+Arizona,2013,8
+Arizona,2014,8
+Arizona,2015,8
+Arizona,2016,8
+Arizona,2017,8
+Arizona,2018,8
+Arkansas,2013,11
+Arkansas,2014,11
+Arkansas,2015,11
+Arkansas,2016,11
+Arkansas,2017,11
+Arkansas,2018,11
+California,2013,99
+California,2014,100
+California,2015,102
+California,2016,104
+California,2017,106
+California,2018,109
+Colorado,2013,30
+Colorado,2014,30
+Colorado,2015,30
+Colorado,2016,30
+Colorado,2017,30
+Colorado,2018,30
+Connecticut,2013,84
+Connecticut,2014,85
+Connecticut,2015,85
+Connecticut,2016,90
+Connecticut,2017,90
+Connecticut,2018,90
+Delaware,2013,37
+Delaware,2014,38
+Delaware,2015,38
+Delaware,2016,39
+Delaware,2017,40
+Delaware,2018,40
+Florida,2013,21
+Florida,2014,21
+Florida,2015,21
+Florida,2016,21
+Florida,2017,21
+Florida,2018,21
+Georgia,2013,11
+Georgia,2014,6
+Georgia,2015,6
+Georgia,2016,6
+Georgia,2017,6
+Georgia,2018,6
+Hawaii,2013,78
+Hawaii,2014,78
+Hawaii,2015,78
+Hawaii,2016,79
+Hawaii,2017,79
+Hawaii,2018,79
+Idaho,2013,5
+Idaho,2014,5
+Idaho,2015,6
+Idaho,2016,2
+Idaho,2017,2
+Idaho,2018,2
+Illinois,2013,65
+Illinois,2014,65
+Illinois,2015,65
+Illinois,2016,65
+Illinois,2017,65
+Illinois,2018,65
+Indiana,2013,10
+Indiana,2014,11
+Indiana,2015,11
+Indiana,2016,12
+Indiana,2017,12
+Indiana,2018,12
+Iowa,2013,25
+Iowa,2014,25
+Iowa,2015,25
+Iowa,2016,25
+Iowa,2017,24
+Iowa,2018,24
+Kansas,2013,8
+Kansas,2014,8
+Kansas,2015,4
+Kansas,2016,4
+Kansas,2017,4
+Kansas,2018,4
+Kentucky,2013,7
+Kentucky,2014,7
+Kentucky,2015,7
+Kentucky,2016,7
+Kentucky,2017,7
+Kentucky,2018,7
+Louisiana,2013,8
+Louisiana,2014,12
+Louisiana,2015,12
+Louisiana,2016,12
+Louisiana,2017,13
+Louisiana,2018,13
+Maine,2013,11
+Maine,2014,11
+Maine,2015,11
+Maine,2016,11
+Maine,2017,11
+Maine,2018,11
+Maryland,2013,63
+Maryland,2014,63
+Maryland,2015,64
+Maryland,2016,64
+Maryland,2017,64
+Maryland,2018,64
+Massachusetts,2013,101
+Massachusetts,2014,101
+Massachusetts,2015,101
+Massachusetts,2016,101
+Massachusetts,2017,101
+Massachusetts,2018,101
+Michigan,2013,20
+Michigan,2014,20
+Michigan,2015,21
+Michigan,2016,21
+Michigan,2017,21
+Michigan,2018,21
+Minnesota,2013,31
+Minnesota,2014,39
+Minnesota,2015,41
+Minnesota,2016,41
+Minnesota,2017,41
+Minnesota,2018,41
+Mississippi,2013,5
+Mississippi,2014,5
+Mississippi,2015,2
+Mississippi,2016,2
+Mississippi,2017,2
+Mississippi,2018,2
+Missouri,2013,8
+Missouri,2014,8
+Missouri,2015,8
+Missouri,2016,7
+Missouri,2017,2
+Missouri,2018,2
+Montana,2013,4
+Montana,2014,4
+Montana,2015,4
+Montana,2016,4
+Montana,2017,4
+Montana,2018,4
+Nebraska,2013,22
+Nebraska,2014,22
+Nebraska,2015,22
+Nebraska,2016,22
+Nebraska,2017,22
+Nebraska,2018,22
+Nevada,2013,11
+Nevada,2014,11
+Nevada,2015,15
+Nevada,2016,15
+Nevada,2017,21
+Nevada,2018,21
+New Hampshire,2013,10
+New Hampshire,2014,10
+New Hampshire,2015,10
+New Hampshire,2016,10
+New Hampshire,2017,9
+New Hampshire,2018,9
+New Jersey,2013,67
+New Jersey,2014,67
+New Jersey,2015,67
+New Jersey,2016,67
+New Jersey,2017,75
+New Jersey,2018,75
+New Mexico,2013,10
+New Mexico,2014,10
+New Mexico,2015,10
+New Mexico,2016,10
+New Mexico,2017,10
+New Mexico,2018,10
+New York,2013,73
+New York,2014,76
+New York,2015,76
+New York,2016,76
+New York,2017,76
+New York,2018,76
+North Carolina,2013,30
+North Carolina,2014,30
+North Carolina,2015,30
+North Carolina,2016,30
+North Carolina,2017,30
+North Carolina,2018,30
+North Dakota,2013,14
+North Dakota,2014,14
+North Dakota,2015,14
+North Dakota,2016,14
+North Dakota,2017,10
+North Dakota,2018,10
+Ohio,2013,15
+Ohio,2014,15
+Ohio,2015,16
+Ohio,2016,16
+Ohio,2017,16
+Ohio,2018,16
+Oklahoma,2013,9
+Oklahoma,2014,9
+Oklahoma,2015,9
+Oklahoma,2016,9
+Oklahoma,2017,9
+Oklahoma,2018,9
+Oregon,2013,24
+Oregon,2014,24
+Oregon,2015,33
+Oregon,2016,35
+Oregon,2017,35
+Oregon,2018,37
+Pennsylvania,2013,37
+Pennsylvania,2014,37
+Pennsylvania,2015,37
+Pennsylvania,2016,37
+Pennsylvania,2017,37
+Pennsylvania,2018,37
+Rhode Island,2013,45
+Rhode Island,2014,43
+Rhode Island,2015,43
+Rhode Island,2016,43
+Rhode Island,2017,53
+Rhode Island,2018,53
+South Carolina,2013,12
+South Carolina,2014,12
+South Carolina,2015,12
+South Carolina,2016,12
+South Carolina,2017,12
+South Carolina,2018,12
+South Dakota,2013,5
+South Dakota,2014,5
+South Dakota,2015,5
+South Dakota,2016,5
+South Dakota,2017,5
+South Dakota,2018,5
+Tennessee,2013,24
+Tennessee,2014,24
+Tennessee,2015,24
+Tennessee,2016,22
+Tennessee,2017,22
+Tennessee,2018,22
+Texas,2013,20
+Texas,2014,20
+Texas,2015,20
+Texas,2016,18
+Texas,2017,18
+Texas,2018,18
+Utah,2013,11
+Utah,2014,11
+Utah,2015,11
+Utah,2016,11
+Utah,2017,13
+Utah,2018,13
+Vermont,2013,3
+Vermont,2014,3
+Vermont,2015,6
+Vermont,2016,6
+Vermont,2017,6
+Vermont,2018,6
+Virginia,2013,12
+Virginia,2014,12
+Virginia,2015,12
+Virginia,2016,13
+Virginia,2017,13
+Virginia,2018,13
+Washington,2013,25
+Washington,2014,41
+Washington,2015,41
+Washington,2016,43
+Washington,2017,43
+Washington,2018,43
+West Virginia,2013,24
+West Virginia,2014,24
+West Virginia,2015,24
+West Virginia,2016,18
+West Virginia,2017,18
+West Virginia,2018,18
+Wisconsin,2013,24
+Wisconsin,2014,24
+Wisconsin,2015,23
+Wisconsin,2016,23
+Wisconsin,2017,23
+Wisconsin,2018,23
+Wyoming,2013,6
+Wyoming,2014,6
+Wyoming,2015,6
+Wyoming,2016,6
+Wyoming,2017,6
+Wyoming,2018,6
